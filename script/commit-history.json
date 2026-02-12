@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "28635914c881ba6605c5c8ae7491fd593eef4847",
     "author": "Flora",
     "commit": {
       "date": "2026-02-12T12:23:05.000Z",
       "message": "feat: multiplier html",
-      "url": "https://github.com/flo-ortizr/empezandoJavascript/commit/HEAD"
+      "url": "https://github.com/flo-ortizr/empezandoJavascript/commit/28635914c881ba6605c5c8ae7491fd593eef4847"
     },
     "stats": {
       "total": 10,
@@ -36,5 +36,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Flora",
+    "commit": {
+      "date": "2026-02-12T12:40:57.000Z",
+      "message": "feat: muliplier function",
+      "url": "https://github.com/flo-ortizr/empezandoJavascript/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-02-12"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
